@@ -1,6 +1,6 @@
 # Stanislav Petrov
 
-
+In 2004, I self-main learned PHP, JS and made many commercial websites. In 2010, I changed my field of activity, moving from IT to tourism. In 2022, I decided to return to website development. A lot has changed in this area, new technologies have appeared. Now I am expanding my knowledge of modern front-end and back-end, and have also become interested in developing games in Unity + C#. 
 
 ## Contacts
 * Location: Perm, Russia 
@@ -11,14 +11,10 @@
 * HTML, CSS
 * PHP, JS
 * Node.js, Vue.js
-
-## Education
-Perm State Technical University: mining engineer (non-IT specialty) 
-
-In 2004 self-main learning PHP, JS
-2005 create many web sites
-2010 - 2020 
-
-## Experience
+* Bitrix, Laravel
+* C# + Unity
+* Git
+* Phpstorm, Rider, IDEA
 
 ## English
+A1 - I`m learning English in different app
