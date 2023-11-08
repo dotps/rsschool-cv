@@ -16,5 +16,11 @@ In 2004, I self-main learned PHP, JS and made many commercial websites. In 2010,
 * Git
 * Phpstorm, Rider, IDEA
 
+## Education
+* 2023 - Clean Code Techniques, Architectural Applications, and Principles in Java (PSTU)
+* 2023 - Architecture unity mobile game
+* 2022 - Self-main learned Node.js, Vue.js
+* 2005 - Perm State Technical University (PSTU): mining engineer (non-IT specialty)
+
 ## English
 A1 - I`m learning English in different app
